@@ -1,0 +1,10 @@
+C:\Users\IKang\Documents\Projects\LogTimeDiff\LogThreadTimeDiff\LogThreadTimeDiff\obj\Debug\LogThreadTimeDiff.csprojAssemblyReference.cache
+C:\Users\IKang\Documents\Projects\LogTimeDiff\LogThreadTimeDiff\LogThreadTimeDiff\obj\Debug\LogThreadTimeDiff.TimeDiffLocator.resources
+C:\Users\IKang\Documents\Projects\LogTimeDiff\LogThreadTimeDiff\LogThreadTimeDiff\obj\Debug\LogThreadTimeDiff.Properties.Resources.resources
+C:\Users\IKang\Documents\Projects\LogTimeDiff\LogThreadTimeDiff\LogThreadTimeDiff\obj\Debug\LogThreadTimeDiff.csproj.GenerateResource.cache
+C:\Users\IKang\Documents\Projects\LogTimeDiff\LogThreadTimeDiff\LogThreadTimeDiff\obj\Debug\LogThreadTimeDiff.csproj.CoreCompileInputs.cache
+C:\Users\IKang\Documents\Projects\LogTimeDiff\LogThreadTimeDiff\LogThreadTimeDiff\bin\Debug\LogThreadTimeDiff.exe.config
+C:\Users\IKang\Documents\Projects\LogTimeDiff\LogThreadTimeDiff\LogThreadTimeDiff\bin\Debug\LogThreadTimeDiff.exe
+C:\Users\IKang\Documents\Projects\LogTimeDiff\LogThreadTimeDiff\LogThreadTimeDiff\bin\Debug\LogThreadTimeDiff.pdb
+C:\Users\IKang\Documents\Projects\LogTimeDiff\LogThreadTimeDiff\LogThreadTimeDiff\obj\Debug\LogThreadTimeDiff.exe
+C:\Users\IKang\Documents\Projects\LogTimeDiff\LogThreadTimeDiff\LogThreadTimeDiff\obj\Debug\LogThreadTimeDiff.pdb
